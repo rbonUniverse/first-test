@@ -1,0 +1,22 @@
+h1 {
+      text-align: center;
+}
+
+.ul-class {
+      list-style: none;
+}
+
+
+.formClass {
+      display: flex;
+      flex-direction: column;
+      width: 25%;
+      margin-left: 38%;
+      margin-right: 38%;
+}
+
+#vacContainerDiv {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+}
